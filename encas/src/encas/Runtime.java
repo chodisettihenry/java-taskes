@@ -1,0 +1,16 @@
+package encas;
+
+public class Runtime {
+	public void sample() {
+		System.out.println("i am sample class");
+	}
+	public void sample(long a,int b) {
+	    a=100;
+	    b=100;
+	    System.out.println(a+b);
+	}
+	
+
+
+}
+
